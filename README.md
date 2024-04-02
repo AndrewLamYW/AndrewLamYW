@@ -1,18 +1,28 @@
-# StackOverflow
+# Hi there, I'm Andrew! 👋🏽
+
+![GitHub cover](https://github.com/AndrewLamYW/AndrewLamYW/assets/11419166/9bb1f8f6-c999-48f6-b8b5-65aa9abb0ae7)
+
+## About Me 🚀
+
+I'm a Software Engineer passionate about sustainability. I enjoy learning deeply about JavaScript and TypeScript.
+
+- 🌱 Currently learning: Next.js
+- ⚡ Fun fact: I usually wear a green Save Soil t-shirt 💚
+
+## My Skills 🧠
+
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) 
+![TypeScript](https://img.shields.io/badge/-typescript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
+
+## StackOverflow
 
 [![user:3290143's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3290143?theme=dark)](https://stackoverflow.com/users/3290143)
 
-# Technologies & Tools 🔧 
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=7cb34c)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=7cb34c)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7cb34c)
-![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=7cb34c)
-![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=7cb34c)
-![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7cb34c)
-[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/andrewlamyw/my-stack)
-
-# Previous Work Account Contributions
+## Previous Work Account Contributions
 
 - 2022-2023 https://github.com/andrew-tacklit
 - 2020-2022 https://github.com/andrew-hwahin
