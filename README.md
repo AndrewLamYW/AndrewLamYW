@@ -22,7 +22,9 @@ I'm a software engineer passionate about using technology to promote sustainabil
 
 ## Find Me Online 
 
-* **Stack Overflow:** [![user:3290143's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3290143?theme=dark)](https://stackoverflow.com/users/3290143)
+### Stack Overflow
+
+[![user:3290143's SO profile](https://stackoverflow-readme-profile.johannchopin.fr/profile-small/3290143?theme=dark)](https://stackoverflow.com/users/3290143)
 
 
 ## Let's Connect! 
