@@ -1,4 +1,4 @@
-# Hi there, I'm Andrew Lam! 👋
+# Hi there 👋
 
 ![Cover Photo](https://github.com/AndrewLamYW/AndrewLamYW/assets/11419166/9bb1f8f6-c999-48f6-b8b5-65aa9abb0ae7)
 
