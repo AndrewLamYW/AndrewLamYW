@@ -33,8 +33,15 @@ I'm always open to collaborating on projects, discussing sustainability in tech,
 
 ## Previous Work Contributions
 
-* **2022-2023:** https://github.com/andrew-tacklit (Tacklit) 
-* **2020-2022:** https://github.com/andrew-hwahin (Hwa Hin Sdn Bhd)
+* **2022-2023:** Tacklit
+    * Worked on a TypeScript-based mental health platform.
+    * Techstack: TypeScript, React.js, Node.js, Koa.js, MongoDB, PubSub
+    * https://github.com/andrew-tacklit
+
+* **2020-2022:** Hwa Hin Sdn Bhd
+    * Developed a web app for Construction Worker Management.
+    * Techstack: Full-stack JavaScript, RedwoodJS, Microsoft Authentication, PostgreSQL
+    * https://github.com/andrew-hwahin
 
 <!--
 **andrewlamyw/andrewlamyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
