@@ -4,7 +4,7 @@
 
 ## About Me 🤠
 
-I'm a software engineer passionate about harnessing technology responsibly to create a more sustainable world. The web's power to connect, inspire, and empower drives me – because technology itself is neutral; it's how we wield it that matters. Let's collaborate on impactful projects! 
+I'm a software engineer passionate about harnessing technology responsibly to create a more sustainable world. The web's power to connect, inspire, and empower drives me – because technology itself is neutral; it matters how we wield it. Let's collaborate on impactful projects! 
 
 > "We have the technology, resources and capability to address every issue on the planet. The only thing missing is inclusive consciousness." - Sadhguru
 
@@ -30,7 +30,7 @@ I'm a software engineer passionate about harnessing technology responsibly to cr
 
 ## Previous Work Contributions 🧑‍💻
 
-* **Tacklit (2022-2023):** TypeScript-based mental health platform.  (Tech: React, Node, Koa, MongoDB, PubSub) [https://github.com/andrew-tacklit](https://github.com/andrew-tacklit)
+* **Tacklit (2022-2023):** TypeScript-based mental health platform.  (Tech: React, Node, Koa, MongoDB, Microservices, PubSub) [https://github.com/andrew-tacklit](https://github.com/andrew-tacklit)
 * **Hwa Hin Sdn Bhd (2020-2022):**  Construction Worker Management web app.  (Tech:  RedwoodJS, MS Auth, PostgreSQL)  [https://github.com/andrew-hwahin](https://github.com/andrew-hwahin)
 
 
