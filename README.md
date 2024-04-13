@@ -1,6 +1,5 @@
-# Hi there 👋
+![LinkedIn Banner - Save Soil](https://github.com/AndrewLamYW/AndrewLamYW/assets/11419166/c8615a90-7785-4e60-92d9-3a0deada35e8)
 
-![Cover Photo](https://github.com/AndrewLamYW/AndrewLamYW/assets/11419166/9bb1f8f6-c999-48f6-b8b5-65aa9abb0ae7)
 
 ## About Me 🤠
 
