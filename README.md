@@ -7,8 +7,9 @@ I'm a software engineer passionate about harnessing technology responsibly to cr
 
 > "We have the technology, resources and capability to address every issue on the planet. The only thing missing is inclusive consciousness." - Sadhguru
 
-* 🤓 **Exploring:** Next.js, AI tools, sustainability
+* 🤓 **Exploring:** Harnessing tech for a conscious planet
 * 🛠️ **Tech Stack:**
+![React](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -38,7 +39,7 @@ I'm a software engineer passionate about harnessing technology responsibly to cr
 
 Open to projects, sustainability discussions, and exploring new tech! 
 
-[Email](mailto:andrewlam.yw@gmail.com) | [WhatsApp](https://wa.me/601126265689) 
+[📧 Email](mailto:andrewlam.yw@gmail.com)  •  [![whatsapp](https://github.com/user-attachments/assets/6b5a6b4c-5068-47a5-978d-e604437c4db6) WhatsApp](https://wa.me/601126265689) 
 
 <!--
 **andrewlamyw/andrewlamyw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
