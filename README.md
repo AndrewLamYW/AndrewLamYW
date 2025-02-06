@@ -29,7 +29,8 @@ I'm a software engineer passionate about harnessing technology responsibly to cr
 
 ## Previous Work Contributions 🧑‍💻
 
-* **Tacklit (2022-2023):** TypeScript-based mental health platform.  (Tech: React, Node, Koa, MongoDB, Microservices, PubSub) [https://github.com/andrew-tacklit](https://github.com/andrew-tacklit)
+* **PropertyGuru (2024-2025):** Asia leading property platform.  (Tech: Next.js, React) [https://github.com/andrew-propertyguru](https://github.com/andrew-propertyguru)
+* **Tacklit (2022-2023):** TypeScript-based mental health platform.  (Tech: React, Node.js, Koa, MongoDB, Microservices, PubSub) [https://github.com/andrew-tacklit](https://github.com/andrew-tacklit)
 * **Hwa Hin Sdn Bhd (2020-2022):**  Construction Worker Management web app.  (Tech:  RedwoodJS, MS Auth, PostgreSQL)  [https://github.com/andrew-hwahin](https://github.com/andrew-hwahin)
 
 
